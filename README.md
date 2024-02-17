@@ -11,19 +11,11 @@ This repository serves as a collection of my implementations of popular machine 
 Within this repository, you'll find my implementations of numerous machine learning algorithms, all crafted with curiosity. From simple linear regression to sophisticated deep learning models, each algorithm represents a stepping stone in my journey towards mastery.
 
 
-### Algorithms Planning to Explore:
+### Algorithms Explored:
 
 - Perceptron
-- Adaline
-- Linear Regression
-- Logistic Regression
-- Support Vector Machines (SVM)
-- Decision Trees
-- Random Forests
-- K-Nearest Neighbors (KNN)
-- K-Means Clustering
-- Principal Component Analysis (PCA)
-- LLM
+- AdalineGD
+- AdalineSGD
 - and more...
 
 
