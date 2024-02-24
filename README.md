@@ -16,6 +16,12 @@ Within this repository, you'll find my implementations of numerous machine learn
 - Perceptron
 - AdalineGD
 - AdalineSGD
+- Logistic Regression
+- Linear SVM (Both scratch and scikit)
+- Kernel SVM (need to do more research for scratch implementation)
+- Scikit Decision Trees
+- Scikit Random Forests
+- Scikit KNN
 - and more...
 
 
